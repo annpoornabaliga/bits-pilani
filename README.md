@@ -1,2 +1,2 @@
 # bits-pilani
-This is a bits-pilani project for Development
+This is a Bits Pilani project for Development
